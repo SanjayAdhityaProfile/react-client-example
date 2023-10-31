@@ -1,0 +1,12 @@
+.MemberContainer{
+    margin-top: 1px;
+}
+
+.Member{
+    margin-top: 1px;
+}
+
+.search-box{
+    overflow: auto;
+    display: grid;
+}

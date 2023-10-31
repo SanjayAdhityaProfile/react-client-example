@@ -1,0 +1,25 @@
+.Board_Link{
+    color:aqua;
+    padding: 10px;
+}
+
+.title{
+    padding: 10px;
+    color:aqua;
+    text-align: center;
+    outline: 2px double rgb(196, 196, 196);
+    /* display: flex; */
+    /* align-items: center; */
+}
+.containerDashBoard{
+    padding: 10px;
+    height: 600px;
+}
+
+.dataBoard{
+    height: 200px;
+}
+
+.createBoard{
+    
+}

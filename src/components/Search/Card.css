@@ -1,0 +1,19 @@
+
+.card_assign {
+    height: "30px";
+    margin: "10px";
+    background-color: "green";
+    border-radius: "10px"
+}
+
+
+.card_un_assign {
+    height: "30px";
+    margin: "10px";
+    background-color: "rad";
+    border-radius: "10px"
+}
+
+div{
+    
+}
